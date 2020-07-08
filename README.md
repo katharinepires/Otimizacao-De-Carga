@@ -11,5 +11,6 @@ Para a utilização do pacote, terá que instalar ``` install.packages('shinythe
 
 [Site para temas](https://rstudio.github.io/shinythemes/)
 
+Link do site criado: [Otimização de Cargas](https://katharinepires.shinyapps.io/OtimizacaoCargas/)
 
 [Katharine Pires](https://www.linkedin.com/in/katharine-pires-53b849155/)
